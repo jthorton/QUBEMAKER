@@ -1,0 +1,33 @@
+REMARK  FINAL COORDINATES WRITTEN BY NAMD AT TIMESTEP 1000
+ATOM      1  NT  NME P1  2       0.702   1.942   1.724  1.00  0.00      P1   N 
+ATOM      2  HNT NME P1  2       0.624   2.190   0.705  1.00  0.00      P1   H 
+ATOM      3  CAT NME P1  2       1.656   2.626   2.587  1.00  0.00      P1   C 
+ATOM      4  HT1 NME P1  2       2.536   2.007   2.725  1.00  0.00      P1   H 
+ATOM      5  HT2 NME P1  2       1.949   3.565   2.144  1.00  0.00      P1   H 
+ATOM      6  HT3 NME P1  2       1.215   2.817   3.556  1.00  0.00      P1   H 
+ATOM      7  CAY ACE P1  2      -1.274   2.338  -2.187  1.00  0.00      P1   C 
+ATOM      8  HY1 ACE P1  2      -1.460   1.497  -2.837  1.00  0.00      P1   H 
+ATOM      9  HY2 ACE P1  2      -0.575   3.023  -2.673  1.00  0.00      P1   H 
+ATOM     10  HY3 ACE P1  2      -2.186   2.880  -1.953  1.00  0.00      P1   H 
+ATOM     11  CY  ACE P1  2      -0.657   1.876  -0.935  1.00  0.00      P1   C 
+ATOM     12  OY  ACE P1  2       0.440   2.278  -0.627  1.00  0.00      P1   O 
+ATOM     13  N   LEU P1  2      -1.424   1.034  -0.270  1.00  0.00      P1   N 
+ATOM     14  HN  LEU P1  2      -2.276   0.814  -0.764  1.00  0.00      P1   H 
+ATOM     15  CA  LEU P1  2      -1.219   0.343   1.054  1.00  0.00      P1   C 
+ATOM     16  HA  LEU P1  2      -2.149   0.453   1.600  1.00  0.00      P1   H 
+ATOM     17  CB  LEU P1  2      -1.074  -1.163   0.752  1.00  0.00      P1   C 
+ATOM     18  HB1 LEU P1  2      -0.879  -1.684   1.698  1.00  0.00      P1   H 
+ATOM     19  HB2 LEU P1  2      -2.054  -1.529   0.429  1.00  0.00      P1   H 
+ATOM     20  CG  LEU P1  2      -0.019  -1.546  -0.276  1.00  0.00      P1   C 
+ATOM     21  HG  LEU P1  2      -0.260  -1.078  -1.222  1.00  0.00      P1   H 
+ATOM     22  CD1 LEU P1  2      -0.085  -3.047  -0.537  1.00  0.00      P1   C 
+ATOM     23 HD11 LEU P1  2       0.638  -3.327  -1.308  1.00  0.00      P1   H 
+ATOM     24 HD12 LEU P1  2       0.163  -3.615   0.380  1.00  0.00      P1   H 
+ATOM     25 HD13 LEU P1  2      -1.093  -3.350  -0.881  1.00  0.00      P1   H 
+ATOM     26  CD2 LEU P1  2       1.373  -1.129   0.147  1.00  0.00      P1   C 
+ATOM     27 HD21 LEU P1  2       2.104  -1.566  -0.552  1.00  0.00      P1   H 
+ATOM     28 HD22 LEU P1  2       1.468  -0.057   0.099  1.00  0.00      P1   H 
+ATOM     29 HD23 LEU P1  2       1.597  -1.493   1.157  1.00  0.00      P1   H 
+ATOM     30  C   LEU P1  2      -0.071   0.913   2.074  1.00  0.00      P1   C 
+ATOM     31  O   LEU P1  2       0.040   0.459   3.189  1.00  0.00      P1   O 
+END
