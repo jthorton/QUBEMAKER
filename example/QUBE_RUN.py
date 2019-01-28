@@ -40,7 +40,7 @@ class OpenMM:
             self.natoms += 1
 
         # must use a custom version of the tip3p water moddel
-        forcefield = app.ForceField(self.xml, 'tip3p_opls.xml') 
+        forcefield = app.ForceField(self.xml, 'tip3p_opls.xml')
         self.modeller = app.Modeller(pdb.topology, pdb.positions)  # set the intial positions from the pdb
 
         # Now we need to solvate the system
